@@ -1,5 +1,5 @@
 #  ♕  Hi, I'm Harman 
--   Studying at the University of Alberta   
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,28 +16,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-<h2>⚡️ Where to find me</h2>
-
-<table>
-    <tr>
-       <td align="center">
-           <a target="_blank" href="https://twitter.com/hm04a4" style="display: inline-block;">
-             <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=black" alt="twitter" />
-           </a>
-      </td>
-     </tr>
-     <tr> 
-     </tr>
-     <tr>
-      <td>
-        <a target="_blank" href="https://www.linkedin.com/in/harmanp1" style="display: inline-block;">
-         <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="linkedin" />
-       </a>
-      </td>   
-     </tr>
-</table>
 
 
 # 📊 GitHub Stats:
