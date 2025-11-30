@@ -65,48 +65,42 @@ Backend-heavy full stack developer passionate about JavaScript, distributed syst
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
 
-## 🟥 Advanced Backend + System Design
-<p align="center">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Message_Queues-1572B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Load%20Balancing-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rate%20Limiting-8E44AD?style=flat-square"/>
-<img src="https://img.shields.io/badge/CAP%20Theorem-006699?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebSockets-3C3C3D?style=flat-square"/>
-<img src="https://img.shields.io/badge/gRPC-3A55D1?style=flat-square&logo=grpc&logoColor=white"/>
-</p>
-
 ---
 
-<h1 align="center">GitHub Stats</h1>
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sicaario&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
----
+<table width="90%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<h1 align="center">Competitive Programming</h1>
+<h3>LeetCode</h3>
+<a href="https://leetcode.com/u/WQP4bxZTix/">
+<img src="https://leetcard.jacoblin.cool/WQP4bxZTix?theme=dark&width=360" />
+</a>
 
-### ⭐ LeetCode  
-<p align="center">
-  <a href="https://leetcode.com/u/WQP4bxZTix/">
-    <img src="https://leetcard.jacoblin.cool/WQP4bxZTix?theme=dark&width=360"/>
-  </a>
-</p>
+<br><br>
 
-### ⭐ Codeforces  
-<p align="center">
-  <a href="https://codeforces.com/profile/Harman004">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>GitHub Stats</h3>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sicaario&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -117,7 +111,6 @@ Backend-heavy full stack developer passionate about JavaScript, distributed syst
 
 ---
 
-<p align="center">⭐ If you like my profile, feel free to star my repositories!</p>
 
 
 
