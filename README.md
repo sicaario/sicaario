@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://github.com/sicaario"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/WQP4bxZTix/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/Harman004"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
   <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
 </p>
 
