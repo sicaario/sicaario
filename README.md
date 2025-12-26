@@ -7,7 +7,6 @@
 <!-- SOCIAL -->
 <p align="center">
   <a href="https://github.com/sicaario"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/WQP4bxZTix/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
   <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
 </p>
 
@@ -71,35 +70,6 @@ Backend-heavy full stack developer passionate about JavaScript, distributed syst
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
-
----
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>LeetCode</h3>
-<a href="https://leetcode.com/u/WQP4bxZTix/">
-<img src="https://leetcard.jacoblin.cool/WQP4bxZTix?theme=dark&width=360" />
-</a>
-
-<br><br>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>GitHub Stats</h3>
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sicaario&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 ---
 
