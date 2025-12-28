@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-333?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-333?logo=next.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-333?logo=redis&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-333?logo=tailwindcss&style=for-the-badge" />
 </p>
 
@@ -45,7 +46,6 @@
   <img src="https://img.shields.io/badge/MongoDB-333?logo=mongodb&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-333?logo=docker&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-333?logo=redis&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kafka-333?logo=apachekafka&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-333?logo=kubernetes&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Grafana-333?logo=grafana&style=for-the-badge" />
