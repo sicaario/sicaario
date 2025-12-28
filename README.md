@@ -11,11 +11,17 @@
     <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836"/>
 </a>
 
-**Full-Stack Developer • Backend Engineer • DevOps Learner**
+---
+
+## About Me
+
+<p align="center">
+Backend-heavy full stack developer passionate about JavaScript, distributed systems, databases, cloud infra and solving real engineering problems.
+</p>
 
 ---
 
-## 👨🏻‍💻 Tech Stack
+## Tech Stack
 
 ### 🟦  **Languages**
 <p align="center">
