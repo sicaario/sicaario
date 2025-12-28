@@ -1,86 +1,61 @@
-<!-- TITLE -->
-<h1 align="center">Hey 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">Full-Stack Developer • Backend Engineer • DevOps Learner</h3>
-
-<br/>
-
-<!-- SOCIAL -->
 <p align="center">
-  <a href="https://github.com/sicaario"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836"/></a>
-</p>
-
-<br/>
-
----
-
-<h1 align="center">About Me</h1>
-<p align="center">
-Backend-heavy full stack developer passionate about JavaScript, distributed systems, databases, cloud infra and solving real engineering problems.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harman+%F0%9F%91%8B;Full-Stack+Developer+%7C+Backend+Engineer+%7C+DevOps+Learner;Distributed+Systems+%7C+Databases+%7C+Cloud+Infra"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-<h1 align="center">Tech Stack</h1>
+<a href="mailto:harmanp8@ualberta.ca">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836"/>
+</a>
 
-## 🟦 Languages
+**Full-Stack Developer • Backend Engineer • DevOps Learner**
+
+---
+
+## 👨🏻‍💻 Tech Stack
+
+### 🟦  **Languages**
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-333?logo=typescript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge" />
 </p>
 
-## 🟩 Databases
+###  🟧 **Frontend**
 <p align="center">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/NoSQL-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-333?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-333?logo=next.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-333?logo=tailwindcss&style=for-the-badge" />
 </p>
 
-## 🟥 Backend
+###  🟥 **Backend**
 <p align="center">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zod-E10098?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAPI_Spec-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Monorepos-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-333?logo=node.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-333?logo=express&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-333?logo=fastapi&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-333?logo=zod&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-333?logo=prisma&style=for-the-badge" />
 </p>
 
-## 🟦 Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Custom%20Hooks-FF5A5F?style=flat-square"/>
-</p>
-
-## 🟧 DevOps & Infra
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+### 🟩 **Databases and DevOps**
+<p align="right">
+  <img src="https://img.shields.io/badge/MongoDB-333?logo=mongodb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-333?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-333?logo=redis&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kafka-333?logo=apachekafka&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-333?logo=kubernetes&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-333?logo=grafana&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-333?logo=prometheus&style=for-the-badge" />
 </p>
 
 ---
 
-<h1 align="center">Experience</h1>
+## Experience
 <p align="center">
-  <img src="https://img.shields.io/badge/UAlberta%20—%20CMPUT%20204%20(Algorithms%20I)%20TA-007C41?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAlberta%20%E2%80%94%20CMPUT%20204%20(Algorithms%20I)%20TA-007C41?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
-
----
-
-
-
-
 
