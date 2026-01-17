@@ -11,7 +11,7 @@
 
 - I'm currently working on getting through College
 - I'm looking to collaborate on innovative projects
-- How to reach me: <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+- How to reach me: <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  <a href="https://codeforces.com/profile/Harman001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 
 ---
 
