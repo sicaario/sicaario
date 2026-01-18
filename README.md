@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NoYjBodGZnOHMwOXRta2NpcXZ6Nmg5NGQ0ZzA0Y2JhZ3NocGF0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNxFnWQSeQ5qJU05uk/giphy.gif"/>
 </div>
 
-<h1 align = "center">I'm Harman.</h1>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨‍🏫 I'm a Student, Full Stack Developer from Canada.
