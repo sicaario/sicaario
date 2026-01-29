@@ -91,14 +91,4 @@
 </tr>
 </table>
 
-<table align = "center">
-<tr>
-<td>
-<a href="https://github.com/sicaario">
-<div align = "center">
-  <img src = "https://github-profile-trophy-mu-gold.vercel.app//?username=sicaario&theme=radical">
-</div>
-</a>
-</td>
-</tr>
-</table
+
