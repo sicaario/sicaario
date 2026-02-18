@@ -40,6 +40,11 @@
   <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white">
+  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   
   
   
