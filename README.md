@@ -1,11 +1,6 @@
 <meta charset="UTF-8">
 
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NoYjBodGZnOHMwOXRta2NpcXZ6Nmg5NGQ0ZzA0Y2JhZ3NocGF0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNxFnWQSeQ5qJU05uk/giphy.gif"/>
-</div>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨‍🏫 I'm a Student, Full Stack Developer from Canada.
 
@@ -13,7 +8,7 @@
 - I'm looking to collaborate on innovative projects
 - How to reach me: <a href="mailto:harmanp8@ualberta.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  <a href="https://codeforces.com/profile/Harman001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align = "center">
