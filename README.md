@@ -2,7 +2,7 @@
 
 
 
-### 👨‍🏫 I'm a Student, Full Stack Developer from Canada.
+### 👨‍🏫 I'm a Student, Developer from Canada.
 
 - I'm currently working on getting through College
 - I'm looking to collaborate on innovative projects
