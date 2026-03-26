@@ -54,7 +54,7 @@
   <td align="center">
     <p align="center">
       <a href="https://github.com/sicaario">
-        <img align="center" height="200px" width="600"src="https://github-readme-stats-eight-pi-79.vercel.app/api?username=sicaario&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
+        <img src = "https://github-readme-streak-stats-new-one.vercel.app/?user=sicaario&theme=radical">
       </a>
     </p>
   </td>
@@ -65,19 +65,6 @@
 </p>
 </details>
 </table>
-
-<table align = "center">
-<tr>
-<td align = "center">
-<a href="https://github.com/sicaario">
-<div align = "center">
-  <img src = "https://github-readme-streak-stats-new-one.vercel.app/?user=sicaario&theme=radical">
-</div>
-</a>
-</tr>
-</td>
-</table>
-
 
 <table align = "center">
 <tr>
