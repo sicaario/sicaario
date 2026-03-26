@@ -54,7 +54,7 @@
   <td align="center">
     <p align="center">
       <a href="https://github.com/sicaario">
-        <img src = "https://github-readme-streak-stats-new-one.vercel.app/?user=sicaario&theme=radical">
+        <img align="center" height="200px" width="600" src = "https://github-readme-streak-stats-new-one.vercel.app/?user=sicaario&theme=radical">
       </a>
     </p>
   </td>
