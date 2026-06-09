@@ -12,34 +12,34 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align = "center">
-<a href="https://github.com/sicaario">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<a href="https://github.com/hrmn3s">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
-<a href="https://github.com/sicaario">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<a href="https://github.com/hrmn3s">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </a>
-<a href="https://github.com/sicaario">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <img href = "https://github.com/sicaario" src = "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<a href="https://github.com/hrmn3s">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img href = "https://github.com/hrmn3s" src = "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   
   
   
@@ -53,14 +53,14 @@
 <tr>
   <td align="center">
     <p align="center">
-      <a href="https://github.com/sicaario">
-        <img align="center" height="200px" width="600" src = "https://github-readme-streak-stats-new-one.vercel.app/?user=sicaario&theme=radical">
+      <a href="https://github.com/hrmn3s">
+        <img align="center" height="200px" width="600" src = "https://github-readme-streak-stats-new-one.vercel.app/?user=hrmn3s&theme=radical">
       </a>
     </p>
   </td>
   <td align="center">
-    <a href="https://github.com/sicaario">
-      <img align="center" height="200px" width="600" src="https://github-readme-stats-eight-pi-79.vercel.app/api/top-langs?username=sicaario&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <a href="https://github.com/hrmn3s">
+      <img align="center" height="200px" width="600" src="https://github-readme-stats-eight-pi-79.vercel.app/api/top-langs?username=hrmn3s&show_icons=true&locale=en&layout=compact&theme=radical" />
   </td>
 </p>
 </details>
@@ -69,9 +69,9 @@
 <table align = "center">
 <tr>
 <td>
-<a href="https://github.com/sicaario">
+<a href="https://github.com/hrmn3s">
 <div align="center">
-<img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=sicaario&theme=radical">
+<img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=hrmn3s&theme=radical">
 </div>
 </a>
 </td>
